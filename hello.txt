@@ -3,4 +3,8 @@ class myclass():
     return 0
 
 myobj = myclass()
-print(bool(myobj))
+print(bool(myobj))z
+
+import os
+import keras
+import pandas
