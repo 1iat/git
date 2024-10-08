@@ -1,0 +1,17 @@
+class myclass():
+  def __len__(self):
+    return 0
+
+myobj = myclass()
+print(bool(myobj))z
+
+import os
+import keras
+import pandas
+
+
+
+
+import os
+import keras
+import pandas
